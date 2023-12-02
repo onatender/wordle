@@ -1,0 +1,34 @@
+C:\Users\ONAT\Desktop\Wordle\Wordle\bin\Debug\Wordle.exe
+C:\Users\ONAT\Desktop\Wordle\Wordle\bin\Debug\Wordle.pdb
+C:\Users\ONAT\Desktop\Wordle\Wordle\obj\Debug\Wordle.csproj.AssemblyReference.cache
+C:\Users\ONAT\Desktop\Wordle\Wordle\obj\Debug\Wordle.Form1.resources
+C:\Users\ONAT\Desktop\Wordle\Wordle\obj\Debug\Wordle.Properties.Resources.resources
+C:\Users\ONAT\Desktop\Wordle\Wordle\obj\Debug\Wordle.csproj.GenerateResource.cache
+C:\Users\ONAT\Desktop\Wordle\Wordle\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\ONAT\Desktop\Wordle\Wordle\obj\Debug\Wordle.exe
+C:\Users\ONAT\Desktop\Wordle\Wordle\obj\Debug\Wordle.pdb
+C:\Users\ONAT\source\repos\Wordle\Wordle\obj\Debug\Wordle.csproj.AssemblyReference.cache
+C:\Users\ONAT\source\repos\Wordle\Wordle\obj\Debug\Wordle.Form1.resources
+C:\Users\ONAT\source\repos\Wordle\Wordle\obj\Debug\Wordle.Properties.Resources.resources
+C:\Users\ONAT\source\repos\Wordle\Wordle\obj\Debug\Wordle.csproj.GenerateResource.cache
+C:\Users\ONAT\source\repos\Wordle\Wordle\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\ONAT\source\repos\Wordle\Wordle\obj\Debug\Wordle.exe
+C:\Users\ONAT\source\repos\Wordle\Wordle\obj\Debug\Wordle.pdb
+C:\Users\ONAT\source\repos\Wordle\Wordle\bin\Debug\Wordle.exe
+C:\Users\ONAT\source\repos\Wordle\Wordle\bin\Debug\Wordle.pdb
+C:\Users\ONAT\source\repos\Wordle\Wordle\obj\Debug\Wordle.MessageBoxKST.resources
+C:\Users\ONAT\Desktop\Wordle\Wordle\bin\Debug\Wordle.exe.config
+C:\Users\ONAT\Desktop\Wordle\Wordle\obj\Debug\Wordle.csproj.SuggestedBindingRedirects.cache
+C:\Users\ONAT\Desktop\Wordle\Wordle\obj\Debug\Wordle.MessageBoxKST.resources
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\Wordle\Wordle\bin\Debug\Wordle.exe.config
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\Wordle\Wordle\bin\Debug\Wordle.exe
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\Wordle\Wordle\bin\Debug\Wordle.pdb
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\Wordle\Wordle\obj\Debug\Wordle.csproj.AssemblyReference.cache
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\Wordle\Wordle\obj\Debug\Wordle.csproj.SuggestedBindingRedirects.cache
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\Wordle\Wordle\obj\Debug\Wordle.Form1.resources
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\Wordle\Wordle\obj\Debug\Wordle.MessageBoxKST.resources
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\Wordle\Wordle\obj\Debug\Wordle.Properties.Resources.resources
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\Wordle\Wordle\obj\Debug\Wordle.csproj.GenerateResource.cache
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\Wordle\Wordle\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\Wordle\Wordle\obj\Debug\Wordle.exe
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\Wordle\Wordle\obj\Debug\Wordle.pdb
